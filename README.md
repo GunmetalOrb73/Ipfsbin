@@ -44,7 +44,7 @@ $ git clone https://github.com/GunmetalOrb73/Ipfsbin
 
 ## Download
 
-You can [download](https://github.com/GunmetalOrb73/Ipfsbin) the latest installable version of Markdownify for Windows, macOS and Linux.
+You can [download](https://github.com/GunmetalOrb73/Ipfsbin) the latest installable version of IpfsBin.
 
 
 ## Credits
