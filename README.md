@@ -49,9 +49,7 @@ You can [download](https://github.com/GunmetalOrb73/Ipfsbin) the latest installa
 ## Credits
 
 This software was made possible by:
-Software functionality and UI
 - [TheDiscordian] (https://github.com/TheDiscordian)
-Mobile UI 
 - [GunmetalOrb73] (https://github.com/GunmetalOrb73)
 ## Support
 
