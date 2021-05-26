@@ -48,10 +48,10 @@ You can [download](https://github.com/GunmetalOrb73/Ipfsbin) the latest installa
 
 ## Credits
 
-This software uses the following open source packages:
+This software was made possible by:
 
-* Coming soon
-
+- [TheDiscordian] (https://github.com/TheDiscordian) Software functionality and UI
+- [GunmetalOrb73] (https://github.com/GunmetalOrb73) Mobile UI.
 ## Support
 
 <img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
