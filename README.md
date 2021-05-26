@@ -20,7 +20,7 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot]()
+![screenshot](https://github.com/GunmetalOrb73/Ipfsbin/blob/main/Screenshots/Screenshot_desktop.png)
 
 ## Key Features
 
