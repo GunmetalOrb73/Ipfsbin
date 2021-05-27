@@ -62,7 +62,7 @@
 		padding-left:0.25em;
 	}
 
-
+	#user_codebox {width:100%;height:100%;}
     #content-desktop {display: block;}
     #content-mobile {display: none;}
 
@@ -70,8 +70,13 @@
 
     #content-desktop {display: none;}
     #content-mobile {display: block;}
-
+    #user_codebox {
+    width: 140%;
+	position: relative;
+	right: 20%;
+    } 
     }
+    
 	</style>
 	<script>
 		const bootstraps = [ '/dns6/ipfs.thedisco.zone/tcp/4430/wss/p2p/12D3KooWChhhfGdB9GJy1GbhghAAKCUR99oCymMEVS4eUcEy67nt', '/dns4/ipfs.thedisco.zone/tcp/4430/wss/p2p/12D3KooWChhhfGdB9GJy1GbhghAAKCUR99oCymMEVS4eUcEy67nt' ];
@@ -317,7 +322,7 @@
 			<!--<hr class="spacer" />-->
 		</div>
 		<div class="col-lg-8 container-fluid-col" style="min-width:300px;" id="main">
-			<textarea id="user_codebox" name="user_codebox" class="form-control" style="width:100%;height:100%;margin-bottom:7.5em;resize: none;font-family:monospace;"></textarea>
+			<textarea id="user_codebox" name="user_codebox" class="form-control" style="margin-bottom:7.5em;resize: none;font-family:monospace;"></textarea>
 			<pre id="viewer_container" style="height:100%;max-width:100%;margin-bottom:7.5em;" hidden><code class="language-bash hljs" style="width:100%;height:100%;" id="viewer_codebox">#!/bin/sh
 
 echo "silly example"</code></pre>
